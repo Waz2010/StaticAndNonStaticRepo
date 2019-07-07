@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/StaticAndNonStatic/StaticAndNonStatic/obj/Debug
+/StaticAndNonStatic/StaticAndNonStatic/bin/Debug
+/StaticAndNonStatic/.vs/StaticAndNonStatic/v15
